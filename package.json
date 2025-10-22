@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
- "scripts": {
-  "build": "echo 'No build step required'",
-}
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@jridgewell/trace-mapping": "^0.3.25",
@@ -101,5 +101,6 @@
     "bufferutil": "^4.0.8"
   }
 }
+
 
 
